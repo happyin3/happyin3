@@ -21,6 +21,7 @@
 * 多进程
 * 协程
 * 分布式
+* 元类
 
 #### 任务依赖库
 
@@ -29,6 +30,8 @@
 
 #### 其他库
 
+* os
+* sys
 * multiprocessing
 * copy
 * argparse
