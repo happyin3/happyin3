@@ -9,7 +9,7 @@ pyenv
 >
 > **参考资料**
 >>
->> * [yyuu/pyenv]https://github.com/yyuu/pyenv
+>> * [yyuu/pyenv](https://github.com/yyuu/pyenv)
 >> * [python 多版本管理（pyenv）](http://www.178linux.com/23588)
 
 #### 虚拟环境
@@ -35,3 +35,12 @@ cProfile
 
 #### 文档
 Sphinx
+
+#### 云服务器
+Heroku
+
+> **Heroku的免费版除了其提供的Postgres数据库有限制之外（小于1万条记录的小型数据库不用付费就可以添加到自己的Web应用中），其它都可以免费使用。
+>
+> **参考资料**
+>>
+>> [如何部署Python Web应用：记录一次Heroku部署完整过程](https://yq.aliyun.com/articles/40785#)
