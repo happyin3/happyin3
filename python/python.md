@@ -2,6 +2,15 @@
 
 ## 常用工具
 
+### 库安装
+
+pip
+
+>
+> **参考资料**
+>>
+>> [Python的包管理器pip更换软件源的方法详解](http://www.thinksaas.cn/topics/0/597/597699.html)
+
 ### 环境设置
 
 autoenv
