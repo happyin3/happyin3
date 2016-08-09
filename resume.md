@@ -22,17 +22,27 @@
 
 ----
 
+## Python练级
+
+**执念：**　专注，规范，沟通，读书
+
+### 已思已得
+
+写起来很舒服，可以在一定时间内完整的了解一门语言的所有特性，感受一门语言的设计哲学，让人酣畅淋漓；深入后，才发现Python的世界千变万化，沉浸其中的同时，让人琢磨不定。
+
+----
+
 ## 职业技能
 
 1. 熟悉Python，会用C#、Java、PHP
 
-2. 熟悉JavaScript、Html、CSS，会用Bootstrap、jQuery、ExtJS、AngularJS，了解ReactJS
+2. 熟悉JavaScript、HTML、CSS，会用Bootstrap、jQuery、ExtJS、AngularJS，了解ReactJS
 
-3. 熟悉Sql Server、MySql、Oracle，会用MongoDB，了解PostgreSQL
+3. 熟悉SQL Server、MySQL、Oracle，会用MongoDB，了解PostgreSQL
 
 4. 会用SQLAlchemy、Hibernate
 
-5. 有完整的Web开发经验，熟悉前后端交互，理解MVC三层架构，使用过Spring MVC、Django、Flask等框架
+5. 有完整的Web开发经验，熟悉前后端交互，理解MVC三层架构，使用过Spring MVC、Tornado、Flask等框架
 
 6. 英语：六级，读写可以，听说持续学习中
 
@@ -76,16 +86,6 @@
 
 ----
 
-## Python练级
-
-**执念：**　专注，规范，沟通，读书
-
-### 已思已得
-
-写起来很舒服，可以在一定时间内完整的了解一门语言的所有特性，感受一门语言的设计哲学，让人酣畅淋漓；深入后，才发现Python的世界千变万化，沉浸其中的同时，让人琢磨不定。
-
-----
-
 ## 温故知新
 
 ### 工作总结
@@ -102,11 +102,18 @@
 
 ### 苏州畅达软件研发有限公司（2014.07 ～ 2016.08）
 
-#### 协护税平台
-
 #### 国有资产监管平台
 
+**技术栈：**　Java，Spring MVC，MySQL
+**项目职责：**　开发团队管理，需求对接，模块开发，项目测试，交付实施，后期维护；  
+**个人总结：**　通过这个项目，深刻体会了需求分析和项目测试的重要性，同时进一步熟悉了Java、Spring MVC、MySQL的使用。清晰详尽的需求不仅能帮助客户完善项目功能，更能帮助开发团队设计并开发出健壮可扩展的系统，降低了开发中的沟通成本，减少了不必要的推翻重来。完善的项目测试，保证了系统迭代开发的高可用性，人工测试排错是让人抓狂的。
+
 #### 统一登陆平台
+
+**技术栈：**　Java，Spring MVC，MySQL
+
+
+#### 协护税平台
 
 ----
 
