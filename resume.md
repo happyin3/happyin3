@@ -44,19 +44,35 @@
 
 #### 一种基于线性插补与自适应滑动窗口的商品价格预测方法
 
-专利号：ZL 2011 1 0423015.5
+专利号：ZL 2011 1 0423015.5  
 发明人：朱全银;胡蓉静;曹苏群;周培;周泓;金鹰;孔庆霞;刘丽娟;尹永华;陈婷
 
 **专利简述：** 将线性插补数据方法与自适应滑动窗口结合的新型商品价格预测方法，并将该商品价格预测方法应用于手机与黄金价格的预测，解决了现有销售商只有历史销售价格数据没有基于多个销售商的预测价格问题，同时还提高了网页商品价格数据抽取的抗噪性能，获得了更高的预测准确率。
 
 #### 一种基于神经网络的多品种商品价格预测的数据预处理方法
 
-专利号：ZL 2012 1 0325368.6
+专利号：ZL 2012 1 0325368.6  
 发明人：朱全银;尹永华;严云洋;陈婷;曹苏群
 
 **专利简述：** 利用改进的RBF神经网络和BP神经网络对网页挖掘的商品价格数据计算其最佳数量级，用计算得出的最佳数量级对商品价格数进行归一化数据量级的预处理，进而提高RBF神经网络和BP神经网络的预测准确率，也提高了RBF神经网络和BP神经网络用于不同商品价格预测的通用性。
 
 ### 参与发表英文论文数篇
+
+**第一作者**
+
+1. Compare with Three Models for Price Forecasting on Steel Market, EI: 20130615981859
+2. Cell Phones Price Forecast Based on Adaptive Sliding Windows, EI: 20130415936727
+3. Effect of Magnitude Differences in the Raw Data on Price Forecasting Using RBF Neural Network, EI: 20130415936724
+4. The System Architecture for the Face Recognition Based on MixedMode. Applied Mechanics and Materials, EI: 20134116829409
+5. Extracting images from Chinese PDFdocuments, EI: 20141217498332
+6. Implementation of a Face Recognition System Based on the Video Stream
+
+**非第一作者**
+
+1. Agriculture Products Price Forecasting with Grey Method and Neural Network, EI: 20124515641035
+2. A Hybrid Approach for New Products Discovery of Cell Phone Based on Web Mining, EI: 20130315915355
+3. Price Forecasting forCell Phone Market Using Adaptive Sliding Window and Adaptive RBF NN, EI: 20135217119422
+4. Influence on Normalization and Magnitude Normalization for PriceForecasting of Agricultural Products
 
 ----
 
