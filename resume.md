@@ -38,24 +38,24 @@
 #### Flask Web开发
 
 使用Flask开发博客
-
-技术栈：
+>
+> **技术栈**
 >
 > Flask，virtualenv，Flask-Script，Flask-Bootstrap，Flask-WTF，Flask-SQLAlchemy，Flask-Migrate，Flask-Login
 
 #### Word Count，Flask-by-Example
 
 统计页面上的单词频次
-
-技术栈：
+>
+> **技术栈**
 >
 > pyenv，Flask，Heroku，PostgreSQL，Psycopg2，Flask-SQLAlchemy，Flask-Migrate，Flask-Script，gunicorn，requests，BeautifulSoup，Natural Language Toolkit，Redis，RQ
 
 #### 爬虫
 
 网站爬虫，支持参数如下：`spider.py -u url -d deep -f logfile -l loglevel(1-5)  --testself -thread number --dbfile  filepath  --key=”HTML5”`
-
-技术栈：
+>
+> **技术栈**
 >
 > requests，Beautiful Soup4，argparse，Queue，pybloomfilter，logging，threading，线程池
 
