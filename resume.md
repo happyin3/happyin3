@@ -53,7 +53,8 @@
 
 #### 爬虫
 
-网站爬虫，支持参数如下：`spider.py -u url -d deep -f logfile -l loglevel(1-5)  --testself -thread number --dbfile  filepath  --key=”HTML5”`
+网站爬虫，支持参数如下：  
+`spider.py -u url -d deep -f logfile -l loglevel(1-5)  --testself -thread number --dbfile  filepath  --key=”HTML5”`
 >
 > **技术栈**
 >
