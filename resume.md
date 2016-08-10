@@ -37,9 +37,21 @@
 
 #### Flask Web开发
 
+**项目描述：** 使用Flask开发博客
+
+**技术栈：**　
+
 #### Word Count，Flask-by-Example
 
+**项目描述：** 统计页面上的单词频次
+
+**技术栈：** 
+
 #### 爬虫
+
+**项目描述：** 网站爬虫，支持参数如下：`spider.py -u url -d deep -f logfile -l loglevel(1-5)  --testself -thread number --dbfile  filepath  --key=”HTML5”`
+
+**技术栈：** requests，Beautiful Soup4，argparse，Queue，pybloomfilter，logging，threading，线程池
 
 ### “求生”之路
 
