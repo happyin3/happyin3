@@ -64,8 +64,8 @@
 
 ### 上海众言网络科技有限公司（问卷网），2016.09 ~ 至今
 
-**技术栈：** Python，Tornado，MongoDB，MongoEngine，Redis，Memcache；
-**项目职责：** 根据需求文档，配合前端完成后端功能的开发实现；
+**技术栈：** Python，Tornado，MongoDB，MongoEngine，Redis，Memcache；  
+**项目职责：** 根据需求文档，配合前端完成后端功能的开发实现；  
 **个人总结：** 编码风格PEP-8，分模块会重构，多写一点注释，少留一些bug。
 
 ### 苏州畅达软件研发有限公司，2014.07 ~ 2016.08
