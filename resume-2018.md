@@ -46,7 +46,7 @@
 * **代理服务器**：nginx；
 * **开发模式**：前后端分离；
 * **前端**：HTML、Bootstrap、jQuery、juicer；
-* **Web服务器**：server，https://github.com/happyin3/bookmarks/blob/master/server/server.py；
+* **Web服务器**：happiness，https://github.com/happyin3/bookmarks/blob/master/happiness/server.py；
 * **开发框架**：Happy，https://github.com/happyin3/bookmarks/blob/master/happy/happy.py；
 
 ## Python书籍
@@ -64,29 +64,29 @@
 
 ### 上海众言网络科技有限公司（问卷网），2016.09 ~ 至今
 
-**技术栈：**
-**项目职责：**
-**个人总结：**
+**技术栈：** Python，Tornado，MongoDB，MongoEngine，Redis，Memcache；
+**项目职责：** 根据需求文档，配合前端完成后端功能的开发实现；
+**个人总结：** 编码风格PEP-8，分模块会重构，多写一点注释，少留一些bug。
 
 ### 苏州畅达软件研发有限公司，2014.07 ~ 2016.08
 
 #### 国有资产监管平台，2016.02 ~ 2016.06
 
 **技术栈：** Java，Spring MVC，MySQL  
-**项目职责：** 开发团队管理，需求对接，模块设计开发，项目测试，交付实施，后期维护；  
-**个人总结：** 通过这个项目，深刻体会了需求分析和项目测试的重要性，同时进一步熟悉了Java、Spring MVC、MySQL的使用。
+**项目职责：** 需求对接，模块设计开发，项目测试，交付实施，后期维护；  
+**个人总结：** 进一步熟悉了Java、Spring MVC、MySQL的使用。
 
 #### 统一登陆平台，2015.10 ~ 2016.01
 
 **技术栈：** Java，Spring MVC，MySQL  
 **项目职责：** 需求对接，模块设计开发，交付实施，后期维护；  
-**个人总结：** 通过这个项目，进一步熟悉了MySQL数据库的使用，同时学习了Java、Spring MVC的使用。
+**个人总结：** 熟悉了MySQL数据库的使用，同时学习了Java、Spring MVC的使用。
 
 #### 协护税平台，2014.10 ~ 2015.09
 
 **技术栈：** C#，ExtJS，AJAX，Oracle，Hibernate  
 **项目职责：** 需求对接分析，模块设计开发，UI重构，交付实施，后期维护；  
-**个人总结：** 通过这个项目学到了很多，成熟的开发规范，不仅提高了开发的效率，同时更能保证系统的健壮性。
+**个人总结：** 成熟的开发规范，不仅提高了开发的效率，同时更能保证系统的健壮性。
 
 ## 大学生涯
 
